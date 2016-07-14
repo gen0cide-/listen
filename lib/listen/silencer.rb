@@ -11,6 +11,7 @@ module Listen
       | vendor/bundle
       | log
       | tmp
+      | node_modules
       |vendor/ruby
     )(/|$)}x
 
